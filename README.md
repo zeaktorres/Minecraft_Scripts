@@ -5,10 +5,10 @@ Auto_Mining will mine tunnels at y=12
 
 # Dependencies
 
-pynput: https://pypi.org/project/pynput/
-pytesseract: https://pypi.org/project/pytesseract/
-open-cv: https://pypi.org/project/opencv-python/
-skimage: https://scikit-image.org/
+pynput: https://pypi.org/project/pynput/ \n
+pytesseract: https://pypi.org/project/pytesseract/ \n
+open-cv: https://pypi.org/project/opencv-python/ \n
+skimage: https://scikit-image.org/ \n
 
 # Mouse_Clicker
 
