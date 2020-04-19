@@ -1,6 +1,6 @@
 # Minecraft_Scripts
 
-#Auto_Mining
+# Auto_Mining
 Auto_Mining will mine tunnels at y=12
 
 # Dependencies
