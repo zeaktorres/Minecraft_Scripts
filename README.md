@@ -1,5 +1,7 @@
 # Minecraft_Scripts
 
+Set of scripts to help you in your minecraft journey
+
 # Auto_Mining
 Auto_Mining will mine tunnels at y=12
 
