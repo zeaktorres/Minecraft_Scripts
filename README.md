@@ -6,9 +6,6 @@ Set of scripts to help you in your minecraft journey
 
 Auto_Mining will mine tunnels at y=12
 
-Sample: 
-https://imgur.com/a/eXEusSf
-
 # Dependencies
 
 pynput: https://pypi.org/project/pynput/ <br/>
