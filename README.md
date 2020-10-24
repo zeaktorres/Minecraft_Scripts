@@ -23,3 +23,9 @@ Mouse_Clicker is a simple cookie clicker that will continue to click the middle 
 # Dependencies
 
 pynput: https://pypi.org/project/pynput/
+
+
+# Example
+
+![](auto_miner_minecraft.gif)
+
